@@ -9,11 +9,15 @@ body {
   background-color: #b4eafb;
   border-radius: 10px;
   font-size: 30px;
+  position: absolute;
+
+
 }
 
 button {
   width: 80px;
   height: 25px;
+  position:
 }
 
 .exit {
@@ -25,6 +29,14 @@ button {
 .ok {
   background-color: #28a745;
   color: white;
+}
+
+.pomoc {
+
+  background-color: pink;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 /* sem přijdou tvoje styly */
